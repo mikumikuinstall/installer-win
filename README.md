@@ -1,2 +1,2 @@
-# installer-win
-Windows installer for MikuMikuDance
+# mmd-installer
+MikuMikuDance (MMD) installer script
