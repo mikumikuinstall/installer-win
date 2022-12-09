@@ -4,6 +4,11 @@ MikuMikuDance (MMD) installer script
 This is a Windows installer for MMD. It packages MMD, MikuMikuEffect (MME) and dependencies such as DirectX into one simple download. It's mainly helpful
 for new users or people who need to quickly setup a copy of MMD on their device.
 
+## Benefits
+* Very simple installation/uninstallation on all Windows devices
+* Automatically sets file association for ".pmm" files
+* Adds to start menu, desktop and Programs & Features so you don't lose it
+
 ## Development
 1. Clone the repository with ``git clone https://github.com/mikumikuinstall/installer-win``
 2. Enter the directory with ``cd installer-win`` and then run ``updateimports.bat`` to fix imports for InstallForge
